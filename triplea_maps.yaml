@@ -1998,12 +1998,13 @@
     <br>
     <br>An alternate history World War 2 scenario.
     <br>
-- mapName: Schultz European War
+- mapName: Oztea 1939 Global
   mapCategory: EXPERIMENTAL
-  url: https://github.com/triplea-maps/schultz_european_war/archive/master.zip
-  version: 3
-  img: https://raw.githubusercontent.com/triplea-maps/schultz_european_war/master/description/TripleA_schultz_european_war_mini.png
+  url: https://github.com/triplea-maps/oztea_1939_global
+  version: 1
+  img: https://raw.githubusercontent.com/triplea-maps/oztea_1939_global/master/description/TripleA_oztea_1939_global_mini.png
   description:
     <br>
-    <br>A World War I Mod.
+    <br> Oztea 1939 Global. This is Oztea's 1939 "Global 40" setup.
     <br>
+    
